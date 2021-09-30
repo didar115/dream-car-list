@@ -1,0 +1,10 @@
+.custom-card{
+    /* height: 630px; */
+    height: auto;
+    width: 350px;
+}
+.custom-card img{
+   height: 250px;
+    width: 100%;
+    border-radius: 2px 2px 5px 5px;
+}

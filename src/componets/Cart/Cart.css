@@ -1,0 +1,10 @@
+.cart-summary{
+    height: auto;
+    width: 205px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    padding: 2px;
+}
+.cart-summary img{
+    border-radius: 10px;
+}
